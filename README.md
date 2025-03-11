@@ -22,7 +22,7 @@
 <h1 align='center'>About ME ❓:</h1>
 <div style="align-items: right;">
     <img  alt="GIF" align='right' width = 300px hieght = 300px
-         src="https://github.com/saimahendra282/saimahendra282/blob/eb4c369f56b748565de2551694eb283d1cffa56d/Assets/dumb-san.gif">
+         src="[https://github.com/kanuriharsha/newgitpro/blob/a05b6d217534b4e78c51edc661d1c7575f03426f/Assets/dumb-san.gif]">
 </div>
 <div style=" align-items: left; test-align:left">
 
