@@ -28,8 +28,8 @@
 
     ```
     {
-    "Name": "Bejawada Sai Mahendra",
-    "Age": "20",
+    "Name": "Kanuri Harsha Vardhan",
+    "Age": "19",
     "Pronouns": "He/Him",
     "Academics": "I am pursuing a dual degree (BBA[II] && B.TECH CSE [III])",
     "Description": "I love developing
