@@ -1,14 +1,14 @@
 
 <div style="text-align: center; margin: auto;">
     <div align="right"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saimahendra282&label=Profile%20views&color=0e75b6&style=flat" alt="sunstromium" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanuriharsha&label=Profile%20views&color=0e75b6&style=flat" alt="kanuriharsha" /> </p>
 
-![GitHub followers](https://img.shields.io/github/followers/saimahendra282?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3900)
+![GitHub followers](https://img.shields.io/github/followers/kanuriharsha?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3900)
 
 #  
 </div>
     <a href="https://git.io/typing-svg" style="display: flex; align-items: center; justify-content: center;">
-        <img style="align-items:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Kon'nichiva!;I+am+Sai+Mahendra+%F0%9F%98%8E" alt="Typing SVG" style="display: block; margin: auto;" />
+        <img style="align-items:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Kon'nichiva!;I+am+K+Harsha+%F0%9F%98%8E" alt="Typing SVG" style="display: block; margin: auto;" />
     </a>
     
 </div>
@@ -103,7 +103,7 @@
 #
 <h3 align="center">To Contact Me:</h3>
 <p>
-<a href="bejawadasaimahendra@gmail.com">
+<a href="kanuriharshavardhan2005@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/bejawada-sai-mahendra-b18289212/">
@@ -117,13 +117,13 @@
 </br>
 </br>
      <h3 align="center"  >Most Used Languages:</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" align="center" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanuriharsha&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" align="center" /></a>
 <h3 align="center" >My Stats ⭐:</p>
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></a>
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=kanuriharsha&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></a>
   </p>
 <h3 align="center">  My Contributions  </h3>
 <p align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimahendra282&theme=tokyonight&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanuriharsha&theme=tokyonight&hide_border=false">
 </p>
 <p align="center">
     
