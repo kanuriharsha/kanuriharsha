@@ -1,63 +1,58 @@
 
-<div style="text-align: center; margin: auto;">
-    <div align="right"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanuriharsha&label=Profile%20views&color=0e75b6&style=flat" alt="kanuriharsha" /> </p>
+<div align="center">
+    <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=kanuriharsha&label=Profile%20views&color=0e75b6&style=flat" alt="kanuriharsha" />
+    </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/kanuriharsha?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3900)
 
-#  
 </div>
-    <a href="https://git.io/typing-svg" style="display: flex; align-items: center; justify-content: center;">
-        <img style="align-items:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Kon'nichiva!;I+am+K+Harsha+%F0%9F%98%8E" alt="Typing SVG" style="display: block; margin: auto;" />
-    </a>
-    
-</div>
-
 
 <div align="center">
-<img hight="100" width="200" alt="GIF" align="center" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Kon'nichiwa!;I+am+K+Harsha+%F0%9F%98%8E" alt="Typing SVG" />
+    </a>
 </div>
 
-
-<h1 align='center'>About ME ❓:</h1>
-<div style="align-items: right;">
-    <img  alt="GIF" align='right' width = 300px hieght = 300px
-         src="https://github.com/kanuriharsha/newgitpro/blob/a05b6d217534b4e78c51edc661d1c7575f03426f/Assets/dumb-san.gif">
+<div align="center">
+    <img height="100" width="200" alt="GIF" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif">
 </div>
-<div style=" align-items: left; test-align:left">
 
-    ```
-    {
-    "Name": "Kanuri Harsha Vardhan",
-    "Age": "19",
-    "Pronouns": "He/Him",
-    "Academics": "I am pursuing a dual degree (BBA[II] && B.TECH CSE [III])",
-    "Description": "I love developing
-                    automation scripts,
-                    web apps, and integrating AI models into programs.
-                    Currently, I am learning the Gemini API and go lang.",
-    "Location": "Eluru, Andhra Pradesh",
-    "Hobbies": [
-        "Playing Chess",
-        "Watching anime",
-        "Coding while listening to music"
+---
+
+## **About Me ❓**
+<div align="right">
+    <img alt="GIF" width="300px" height="300px" src="https://github.com/kanuriharsha/newgitpro/blob/a05b6d217534b4e78c51edc661d1c7575f03426f/Assets/dumb-san.gif">
+</div>
+
+```json
+{
+  "Name": "Kanuri Harsha Vardhan",
+  "Age": 19,
+  "Pronouns": "He/Him",
+  "Academics": "I am pursuing a dual degree (BBA[II] && B.TECH CSE [III])",
+  "Description": "I love developing automation scripts, web apps, and integrating AI models into programs. Currently, I am learning the Gemini API and Go Lang.",
+  "Location": "Eluru, Andhra Pradesh",
+  "Hobbies": [
+    "Playing Chess",
+    "Watching Anime",
+    "Coding while listening to music"
+  ],
+  "Skills": {
+    "Technical": [
+      "C", "Problem Solving", "Data Structures", "Java", "HTML", "API Integration",
+      "CSS", "JavaScript", "Python", "React", "MySQL", "Firebase", "Node.js",
+      "PostgreSQL", "MongoDB", "Netlify"
+    ],
+    "Soft Skills": [
+      "Communication", "Teamwork", "Problem Solving", "Adaptability"
+    ],
+    "Gaming": [
+      "Strategy Games", "Role-Playing Games", "Action Games"
     ]
-    "Skills": {
-        "Technical": [
-            "C", "Problem Solving", "Data Structures", "Java",  "Html", "API Integration",
-            "Css","Js","Python","React","Mysql","Firebase","Nodejs","Postgres","MongoDb",
-            "Netlify"...
-        ],
-        "Soft Skills": [
-            "Communication","Teamwork","Problem Solving","Adapdabilty"
-        ],
-        "Gaming": [
-            "Strategy Games","Role-Playing Games","Action Games"
-        ]
-    }
-    }
- 
-    ```
+  }
+}
+```
 #
 <h3 align="center">What am i doing now ❔❔❔</h3>
 <ul>
