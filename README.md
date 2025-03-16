@@ -36,7 +36,7 @@ Innovative AI & full-stack developer pursuing CS at KL University (9.5 GPA, top 
 KL University, Vijayawada, AP  
 Expected Graduation: May 2026  
 GPA: 9.5/10 | Top 10% in 2026 Batch | Typing Speed : 120 WPM
-
+<!-- 
 ## 🚀 Pinned Projects
 
 <div align="center">
@@ -129,7 +129,7 @@ GPA: 9.5/10 | Top 10% in 2026 Batch | Typing Speed : 120 WPM
       </td>
     </tr>
   </table>
-</div>
+</div>-->
 
 ## 🛠️ Tech Stack
 
