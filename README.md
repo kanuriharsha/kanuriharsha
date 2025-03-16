@@ -213,7 +213,8 @@ GPA: 9.5/10 | Top 10% in 2026 Batch | Typing Speed : 120 WPM
 
 - Led 30+ NCC cadets in organizing NCC Camp, enhancing teamwork and leadership skills
 - Active participant in hackathons, demonstrating problem-solving and innovation
-- Hobbies: Art, Chess
+- Won International Karate Championship 3 times in Japan Shotokan style.
+- Hobbies: Chess, Karate
 
 <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a374-a33c221e70c3.gif" width="100%">
 
