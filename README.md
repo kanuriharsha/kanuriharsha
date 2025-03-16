@@ -1,4 +1,4 @@
-# Gudipudi Prem Charan <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# Kanuri Harsha Vardhan Charan <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;AI+Enthusiast;AWS+Certified;Problem+Solver;Top+10%+at+KL+University" alt="Typing SVG" />
@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="mailto:kanuri.harshavardhan2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/gpremcharan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kanuri-harsha-vardhan-957481247/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/kanuriharsha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="tel:+919059070897"><img src="https://img.shields.io/badge/Phone-9032498549-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
+  <a href="tel:+919059070897"><img src="https://img.shields.io/badge/Phone-9059070897-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -237,8 +237,8 @@ GPA: 9.5/10 | Top 10% in 2026 Batch | Typing Speed : 120 WPM
   <a href="https://github.com/kanuriharsha">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="tel:+919032498549">
-    <img src="https://img.shields.io/badge/Call-9032498549-00897b?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  <a href="tel:+919059070897">
+    <img src="https://img.shields.io/badge/Call-9059070897-00897b?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </div>
 
