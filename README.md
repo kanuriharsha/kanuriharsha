@@ -1,4 +1,4 @@
-# Kanuri Harsha Vardhan Charan <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# Kanuri Harsha Vardhan <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;AI+Enthusiast;AWS+Certified;Problem+Solver;Top+10%+at+KL+University" alt="Typing SVG" />
