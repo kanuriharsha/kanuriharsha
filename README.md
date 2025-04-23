@@ -71,9 +71,8 @@
 ---
 
 ### 🐍 Contribution Graph
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kanuriharsha/kanuriharsha/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
