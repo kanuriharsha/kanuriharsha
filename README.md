@@ -14,7 +14,7 @@
 - 📚 Studying with **100% Free seat** in KL University, Vijayawada
 - 🎓 **B.Tech in Computer Science** at KL University, Vijayawada (Top 10% of 2026 Batch, CGPA: 9.48)
 - 🏆 Achieved the **KLU Sports Excellence Award** from KL University (2023).
-- 💻 Passionate about **Full-Stack Development**, **Data Science**, and **Cloud Computing**
+- 💻 Passionate about **Full-Stack Development** and **Cloud Computing**
 - 🌟 Worked on projects like **Intentrack** and **Online Food Ordering System**
 - 🏆 Received the **Best NCC Cadet Scholarship** in recognition of dedication in NCC activities
 
