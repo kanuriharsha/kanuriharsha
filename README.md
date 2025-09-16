@@ -67,9 +67,9 @@
 ### 🏅 Achievements & Certifications
 
 - 🥇 Ranked in **Top 10%** of B.Tech 2026 Batch at KL University
-- 📜 Certified in **Python for Data Science** by NPTEL
-- 📜 Completed **Microsoft Azure Fundamentals (AZ-900)**
-- 🌐 Built **Voice-Activated Intelligent Search** for real-time query processing
+- 📜 Certified in **Programming in C** an **Programming in Java** by NPTEL
+- 📜 Completed **AWS Cloud Practitioner** Certification
+- 🌐 Secured a professional certificate from **Postman**
 
 ---
 
