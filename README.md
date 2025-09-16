@@ -11,6 +11,7 @@
 
 ### 🚀 About Me
 
+- 🎓 Studying with **100% Free seat** in KL University, Vijayawada
 - 🎓 **B.Tech in Computer Science** at KL University, Vijayawada (Top 10% of 2026 Batch, CGPA: 9.48)
 - 💻 Passionate about **Full-Stack Development**, **Data Science**, and **Cloud Computing**
 - 🌟 Worked on projects like **Intentrack** (AI-powered inventory tracking) and **Kluster OS** (custom OS development)
