@@ -50,7 +50,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
   <img width="12" />
 
+  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img width="12" />
+
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+
+  <!-- SQL (Generic) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL" title="SQL" />
   <img width="12" />
 
   <!-- Node.js -->
