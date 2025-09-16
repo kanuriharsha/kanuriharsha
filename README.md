@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsha Kanuri</h1>
+<h1 align="center">Hi 👋, I'm Kanuri Harsha Vardhan</h1>
 <h3 align="center">Computer Science Student | Full-Stack Developer | Data Science Enthusiast from KL University, India</h3>
 
 <p align="center">
